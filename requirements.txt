@@ -1,6 +1,7 @@
 # requirements.txt
 torch>=2.4.0
 transformers>=4.48.0
+tornado
 bitsandbytes>=0.45.0
 accelerate>=1.1.0
 fastapi
